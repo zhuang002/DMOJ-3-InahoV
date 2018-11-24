@@ -5,8 +5,8 @@ Problem URL:
     
 Test Status:
     
-    Fully Passed.
+    Not Passed.
     
 Branches:
 
-    master: Fully passed. Java. Netbeans Project.
+    master: Not passed. Java. Netbeans Project. It is not a 3 point problem
