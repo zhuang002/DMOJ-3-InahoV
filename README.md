@@ -9,4 +9,4 @@ Test Status:
     
 Branches:
 
-    master: Not passed. Java. Netbeans Project. It is not a 3 point problem
+    master: Not passed. Java. Netbeans Project. It is not a 3 point problem. In java there is no unsigned 64bit data type and use BigInteger at final step will cause time out.
